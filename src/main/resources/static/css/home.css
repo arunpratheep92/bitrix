@@ -1,0 +1,34 @@
+body {
+	color: #404040;
+	background: #151515 none repeat scroll 0 0;
+	color: white;
+}
+.fluid-container
+{
+	margin-left: 225px!important;
+	margin-top:50px!important;
+}
+#cont{
+	float:right;
+	margin-right: 10px;
+}
+#dropdownButton{
+	text-align:center;
+	min-width: 175px;
+}
+#dp-caret
+{
+	margin-left: 10px;
+}
+.view{
+	margin-left: 5px;
+}
+
+.edit
+{
+	margin-left: 5px;
+}
+.delete
+{
+	margin-left: 5px;
+}
